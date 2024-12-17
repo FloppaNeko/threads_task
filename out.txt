@@ -1,0 +1,61 @@
+Reader thread 0x61fdd4 started!
+Reader 0x61fdd4 read data_array[686] = 669336
+Reader thread 0x61fddc started!
+Reader 0x61fddc read data_array[624] = 585764
+Reader thread 0x61fde4 started!
+Writer thread 0x61fdb4 started!
+Reader 0x61fde4 read data_array[74] = 73345
+Writer 0x61fdb4 changed data_array[17] from 18116 to 218907
+Writer thread 0x61fdbc started!
+Writer 0x61fdbc changed data_array[918] from 923143 to 12242
+Reader 0x61fdd4 read data_array[891] = 895871
+Writer 0x61fdb4 changed data_array[668] from 634516 to 847886
+Reader 0x61fde4 read data_array[129] = 125377
+Reader 0x61fdd4 read data_array[936] = 938368
+Reader 0x61fddc read data_array[570] = 534322
+Writer 0x61fdbc changed data_array[13] from 13029 to 266807
+Reader 0x61fdd4 read data_array[858] = 853846
+Reader 0x61fde4 read data_array[229] = 227783
+Writer 0x61fdb4 changed data_array[178] from 181202 to 157217
+Writer 0x61fdbc changed data_array[558] from 522643 to 179012
+Writer 0x61fdb4 changed data_array[426] from 413070 to 360283
+Reader 0x61fddc read data_array[681] = 658996
+Reader 0x61fdd4 read data_array[263] = 264430
+Reader 0x61fde4 read data_array[662] = 626924
+Reader 0x61fddc read data_array[771] = 749683
+Writer 0x61fdb4 changed data_array[147] from 148170 to 788656
+Writer 0x61fdbc changed data_array[779] from 756095 to 719355
+Reader 0x61fdd4 read data_array[259] = 261998
+Reader 0x61fddc read data_array[192] = 189676
+Reader 0x61fde4 read data_array[83] = 85516
+Reader 0x61fddc read data_array[727] = 703370
+Writer 0x61fdb4 changed data_array[488] from 466238 to 925541
+Reader 0x61fddc read data_array[959] = 962121
+Reader 0x61fde4 read data_array[422] = 407876
+Writer 0x61fdbc changed data_array[848] from 846847 to 91962
+Reader 0x61fdd4 read data_array[703] = 685759
+Reader 0x61fddc read data_array[568] = 534290
+Reader 0x61fdd4 read data_array[539] = 508340
+Reader 0x61fde4 read data_array[875] = 876483
+Reader 0x61fddc read data_array[940] = 941981
+Writer 0x61fdb4 changed data_array[42] from 39695 to 999299
+Writer 0x61fdbc changed data_array[204] from 200694 to 206346
+Reader 0x61fddc read data_array[106] = 111368
+Reader 0x61fdd4 read data_array[750] = 722356
+Reader 0x61fde4 read data_array[436] = 419019
+Writer 0x61fdb4 changed data_array[676] from 656129 to 376962
+Writer 0x61fdbc changed data_array[382] from 374923 to 384939
+Reader 0x61fddc read data_array[953] = 957980
+Reader 0x61fde4 read data_array[138] = 136186
+Writer 0x61fdb4 changed data_array[229] from 227783 to 681895
+Reader 0x61fddc read data_array[229] = 227783
+Reader 0x61fdd4 read data_array[97] = 97368
+Writer 0x61fdbc changed data_array[544] from 514120 to 111154
+Reader 0x61fde4 read data_array[302] = 308460
+Writer 0x61fdb4 changed data_array[873] from 873840 to 222927
+Reader 0x61fddc read data_array[450] = 431440
+Reader 0x61fde4 read data_array[494] = 473375
+Reader 0x61fddc read data_array[664] = 628858
+Writer 0x61fdbc changed data_array[672] from 645086 to 962906
+Reader 0x61fdd4 read data_array[863] = 860471
+Writer 0x61fdb4 changed data_array[148] from 149231 to 964107
