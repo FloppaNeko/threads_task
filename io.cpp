@@ -24,7 +24,7 @@ void get_params_from_file(std::ifstream* fin_ptr,
             *num_writers_ptr = std::stoi(num_str);
 
             if (*num_writers_ptr < 0) {
-                throw std::runtime_error("Readers number is negative!");
+                throw std::runtime_error("Writers number is negative!");
             }
 
         } else if (line.substr(0, 7) == "output=") {
