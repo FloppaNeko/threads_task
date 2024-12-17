@@ -71,7 +71,7 @@ void get_params(int argc, char* argv[],
             *num_writers_ptr = std::stoi(num_str);
 
             if (*num_writers_ptr < 0) {
-                throw std::runtime_error("Readers number is incorrect!");
+                throw std::runtime_error("Writers number is incorrect!");
             }
 
         } else if (line.substr(0, 7) == "output=") {
